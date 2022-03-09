@@ -15,7 +15,7 @@ solución a una tienda que contiene lo siguiente:
 El archivo contiene dos scripts, un diagrama de la base de datos y el documentos PDF del taller.
 
 
-## Primer script  Segundo script
+## Primer script
 
 ```
 1. Crear las tablas requeridas con las relaciones necesarias
