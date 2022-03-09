@@ -12,7 +12,7 @@ solución a una tienda que contiene lo siguiente:
 
 ### Paquetes
 
-El archivo contiene dos scripts, un diagrama de la base de datos y el documentos PDF del taller.
+El archivo contiene dos scripts, un diagrama de la base de datos y el documento PDF del taller.
 
 
 ## Primer script
